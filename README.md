@@ -1,2 +1,5 @@
 # hello-world
-peepeepoopoo
+
+you suck.
+
+this is just trying out github. :)
